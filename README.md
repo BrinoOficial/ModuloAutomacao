@@ -1,5 +1,5 @@
 # ModuloAutomacao
-Um módulo com base no franzininho para uma automação residencial simples e de baixo custo
+Um módulo com base no franzininho para uma automação residencial simples e de baixo custo. A ideia é utilizar um controle remoto IR qualquer para poder ligar e deligar uma tomada. Com isso é possivel controlar coisas como lâmpadas e ventiladores com o clicar de um botão de sua TV.
 
 ## Quer saber como montar o projeto? Confira agora mesmo a [wiki](https://github.com/BrinoOficial/ModuloAutomacao/wiki)!
 
